@@ -1,4 +1,4 @@
-# Competitive_MultiAgent
+# Competitive MultiAgent using MADDPG
 Multi-agent learning policy using actor critic DDPG.
 
 Using the concept from paper below from Ryan et al (2017) paper
