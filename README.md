@@ -9,8 +9,10 @@ Implement Multi-Agent Deep Deterministic Policy Gradient for udacity provided te
 Objective:
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
-# The Environment 
+## The Environment 
 
+
+### Introduction to environement objective and success criteria
 
 In this environment, two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01. Thus, the goal of each agent is to keep the ball in play.
 
@@ -26,7 +28,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 This section describes how to get the code for this project, configure the local environment, and download the Unity environment with the Agents.
 
 
-### Getting the code
+### Getting the code (Tennis environment)
 You have two options to get the code contained in this repository:
 ##### Option 1. Download it as a zip file
 
@@ -46,7 +48,6 @@ Having Git installed in your system, you can clone this repository by running th
 ```
 $ git clone https://github.com/silviomori/udacity-deep-reinforcement-learning-p3-collab-compet.git
 ```  
-
 
 ### Configuring the local environment
 
